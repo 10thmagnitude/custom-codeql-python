@@ -10,3 +10,5 @@ This repo shows how to create a CodeQL query to find references to `shutil.rmtre
 
 1. Create a database of your code
   - Run `codeql database create codeqldb --language=python` to create the database
+
+sample PR
